@@ -27,3 +27,4 @@
 <color=#FFFFFF>NANO_BOSS</color>
 <color=#FFFFFF>zymakc</color>
 <color=#FFFFFF>Тайори</color>
+<color=#FFFFFF>Mako Lovestein</color>
