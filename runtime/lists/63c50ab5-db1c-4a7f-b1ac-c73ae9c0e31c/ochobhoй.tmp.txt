@@ -39,3 +39,4 @@
 <color=#6ba4c9>Бурундучий Хлоп</color>
 <color=#6ba4c9>vanechik</color>
 <color=#6ba4c9>МЕДИК</color>
+<color=#6ba4c9>pivo</color>
