@@ -28,6 +28,5 @@
 <color=#0000FF>бегающие гвозди</color>
 <color=#0000FF>Kukumru</color>
 <color=#0000FF>Bitriniti</color>
-<color=#0000FF>LostSollMoon</color>
 <color=#0000FF>FlatterDeN</color>
 <color=#0000FF>Esdoor</color>
