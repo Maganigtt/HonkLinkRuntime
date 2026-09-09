@@ -1,7 +1,6 @@
 Gettar
 Клоун
 Тайори
-DanteTtr
 DEofWs
 БОТлапки
 Parkan5161
@@ -10,6 +9,7 @@ NANO_BOSS
 Bitriniti
 Kszysztof Pszeb
 ~ой~
+DanteTtr
 zymakc
 Aventhor
 S H I K A
