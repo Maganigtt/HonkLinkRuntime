@@ -40,4 +40,4 @@
 <color=#6ba4c9>vanechik</color>
 <color=#6ba4c9>МЕДИК</color>
 <color=#6ba4c9>pivo</color>
-<color=#6ba4c9>Unknown_usr_892f</color>
+<color=#6ba4c9>Нойзи Бой</color>
