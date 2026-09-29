@@ -14,7 +14,7 @@
 <color=#0000FF>derupp</color>
 <color=#0000FF>jmot</color>
 <color=#0000FF>MəˈD</color>
-<color=#0000FF>- raque -</color>
+<color=#0000FF>raque</color>
 <color=#0000FF>Melkor2030</color>
 <color=#0000FF>Кицуня</color>
 <color=#0000FF>Kapeluh</color>
