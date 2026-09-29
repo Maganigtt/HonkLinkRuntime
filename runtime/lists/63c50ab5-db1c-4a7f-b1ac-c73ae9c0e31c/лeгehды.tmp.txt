@@ -5,4 +5,4 @@
 <color=#FF8040>LostSollMoon</color>
 <color=#FF8040>лАпшиЧчК0</color>
 <color=#FF8040>Kukumru</color>
-<color=#FF8040>- raque -</color>
+<color=#FF8040>raque</color>
