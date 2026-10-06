@@ -43,3 +43,4 @@
 <color=#6ba4c9>Нойзи Бой</color>
 <color=#6ba4c9>esuitor14</color>
 <color=#6ba4c9>almokeepcalmo</color>
+<color=#6ba4c9>Kitafy</color>
