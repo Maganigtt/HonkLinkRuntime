@@ -30,4 +30,3 @@
 <color=#0000FF>FlatterDeN</color>
 <color=#0000FF>Esdoor</color>
 <color=#0000FF>King_ARTUR</color>
-<color=#0000FF>HIKARU_NARU</color>
